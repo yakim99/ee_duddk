@@ -1,8 +1,3 @@
-import streamlit as st
-
-st.title('Steamlit 시각화')
-st.write('This is a simple Streamlit app connected with GitHub.')
-
 import streamlit as st  # Streamlit 패키지
 import plotly.express as px 
 import plotly.graph_objects as go
